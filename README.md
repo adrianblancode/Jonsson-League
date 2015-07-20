@@ -1,4 +1,4 @@
-# Jonsson-League
+# Jonsson League
 
 Jonsson League is a small text-based adventure game created in C++, meant to be played simultaneously by one brave adventurer and one deeply sadistic dungeon master. It was written using templates, unit tests, and all that good stuff.
 

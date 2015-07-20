@@ -1,0 +1,20 @@
+
+You are about to embark upon a great adventure to steal the swedish royal treasures.
+You are Jonsson, the mastermind behind the legendary Jonsson League, the most successful
+thieves in the history of all universes and llamas.
+
+You have entered the castle, and your mission is to find the Throne Room and steel
+as much treasures as you can, and then get out again. On your quest, you will stumble
+challanges  that must be defeated.
+
+To get information about the environment you are in, enter DESCRIPTION. You can also see
+what you have in your INVENTORY or get the STATUS of Jonsson.
+
+You can TAKE and DROP items.
+
+To move around in the castle, you can use GO, MOVE or WALK followed by the DIRECTION you
+want to go.
+
+Should you stumble upon an enemy, you can ATTACK them. If Jonsson suddenly get some suicidal
+thoughts, that can be solved with the command SUICIDE.
+
